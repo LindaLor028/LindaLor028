@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/DoodleLor-black?style=for-the-badge&logo=Itch.io&logoColor=white&link=https%3A%2F%2Fdoodlelor.itch.io%2F)
+
+
+
 <!--
 **LindaLor028/LindaLor028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
